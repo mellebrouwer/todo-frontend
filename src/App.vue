@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <h1>✨ My Todo App</h1>
+      <h1>✨ My Todo App (Auto-Deploy Test!)</h1>
       <div class="stats" v-if="stats">
         <span class="stat-item">📝 {{ stats.total }} total</span>
         <span class="stat-item">✅ {{ stats.completed }} done</span>
